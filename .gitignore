@@ -1,0 +1,6 @@
+# Files to ignore that were copied over from homework but not needed for
+# assignment check-in
+Images/
+matplotlib_grading_rubric.pdf
+Pymaceuticals/pymaceuticals_starter.ipynb
+
